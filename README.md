@@ -255,5 +255,3 @@ Utiliza `Background`, `Tags`, `Scenario Outline`, `Data Tables`, `Doc Strings`, 
 * [Cucumber GitHub](https://github.com/cucumber)
 
 ---
-
-Hecho con 💻 y pasión por la automatización.
